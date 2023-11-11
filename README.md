@@ -1,2 +1,2 @@
 # Calculator
-while using only HTML 
+while using only HTML  fch
